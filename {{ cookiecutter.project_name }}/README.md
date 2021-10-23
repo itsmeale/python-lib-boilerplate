@@ -24,6 +24,11 @@ $ poetry install
 After installing you could access the virtual enviroment with `poetry shell` \
 Create a github repository and add the remote origin to do yout project version control.
 
+
+## Repo navigation
+![Visualization of this repo](./diagram.svg)
+
+
 ## How to use
 ...
 
